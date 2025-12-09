@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Python, FastAPI
+- **Detected Technologies:** Python
 - **GitHub Topics:** None
 
 ---
